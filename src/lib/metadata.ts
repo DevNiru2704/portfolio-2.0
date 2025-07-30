@@ -51,7 +51,7 @@ export const generatePageMetadata = (
 };
 
 export const homeMetadata = generatePageMetadata(
-  "Full-Stack Developer & Researcher",
+  "Portfolio",
   "Nirmalya Mandal is a passionate full-stack developer and researcher specializing in React, Node.js, AI/ML, and DevOps. Explore 50+ projects and 12+ months of professional experience in cutting-edge web development.",
   "",
   ["home", "developer", "portfolio", "full-stack", "react", "nodejs"]

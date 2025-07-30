@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   // Default metadata that can be overridden by pages
   title: {
     template: "%s | Nirmalya Mandal",
-    default: "Nirmalya Mandal - Full-Stack Developer & Researcher",
+    default: "Nirmalya Mandal - Portfolio",
   },
   description:
     "Nirmalya Mandal is a passionate full-stack developer and researcher specializing in React, Node.js, AI/ML, and DevOps. Explore 50+ innovative projects and 12+ months of professional development experience.",
