@@ -51,42 +51,42 @@ export const generatePageMetadata = (
 };
 
 export const homeMetadata = generatePageMetadata(
-  "Portfolio",
+  "Nirmalya Mandal - Portfolio",
   "Nirmalya Mandal is a passionate full-stack developer and researcher specializing in React, Node.js, AI/ML, and DevOps. Explore 50+ projects and 12+ months of professional experience in cutting-edge web development.",
   "",
   ["home", "developer", "portfolio", "full-stack", "react", "nodejs"]
 );
 
 export const aboutMetadata = generatePageMetadata(
-  "About Me - Full-Stack Developer",
+  "Nirmalya Mandal - Portfolio",
   "Meet Nirmalya Mandal, a Computer Science Engineering student and full-stack developer with expertise in React, Node.js, Python, and cloud technologies. Discover my journey, skills, and passion for innovation.",
   "/about",
   ["about", "biography", "skills", "education", "computer science"]
 );
 
 export const experienceMetadata = generatePageMetadata(
-  "Professional Experience - Work History",
+  "Nirmalya Mandal - Portfolio",
   "Explore Nirmalya Mandal's professional journey including internships and roles at TechCorp Solutions, StartupXYZ, and Digital Agency Pro. 12+ months of hands-on development experience.",
   "/experience",
   ["experience", "work", "internship", "career", "professional", "jobs"]
 );
 
 export const projectsMetadata = generatePageMetadata(
-  "Projects - Web Development Portfolio",
+  "Nirmalya Mandal - Portfolio",
   "Explore Nirmalya Mandal's impressive portfolio featuring 50+ innovative projects: e-commerce platforms, AI chat assistants, DevOps automation, and modern web applications using React, Node.js, Python, and cloud technologies.",
   "/projects",
   ["projects", "portfolio", "web development", "react", "nodejs", "python", "ai", "devops"]
 );
 
 export const researchMetadata = generatePageMetadata(
-  "Research - AI/ML & Technology Innovation",
+  "Nirmalya Mandal - Portfolio",
   "Explore Nirmalya Mandal's research work in artificial intelligence, machine learning, and cutting-edge technology innovations. Academic papers and technical contributions.",
   "/research",
   ["research", "ai", "machine learning", "artificial intelligence", "innovation", "papers"]
 );
 
 export const contactMetadata = generatePageMetadata(
-  "Contact - Get In Touch",
+  "Nirmalya Mandal - Portfolio",
   "Ready to collaborate? Contact Nirmalya Mandal for full-stack development projects, consulting opportunities, or professional discussions. Let's build something amazing together using modern web technologies.",
   "/contact",
   ["contact", "hire", "collaboration", "freelance", "consulting", "get in touch"]
