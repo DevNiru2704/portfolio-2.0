@@ -48,7 +48,7 @@ const Projects = () => {
       image:
         "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400&h=250&fit=crop",
       github: "https://github.com/nirmalya",
-      live: "https://nirmalya.dev",
+      live: "https://nirmalyamandal.me",
     },
     {
       title: "Task Management App",

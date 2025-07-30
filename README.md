@@ -261,7 +261,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## 📞 Contact
 
-- **Website**: [nirmalya.dev](https://nirmalya.dev)
+- **Website**: [nirmalyamandal.me](https://nirmalyamandal.me)
 - **Email**: nirmalyabiz2004@gmail.com
 - **LinkedIn**: [Nirmalya Mandal](https://www.linkedin.com/in/nirmalya-mandal-9b2475313/)
 - **GitHub**: [@DevNiru2704](https://github.com/DevNiru2704)
@@ -271,4 +271,4 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ⭐ **Star this repository** if you found it helpful!
 
-Built with ❤️ by [Nirmalya Mandal](https://nirmalya.dev)
+Built with ❤️ by [Nirmalya Mandal](https://nirmalyamandal.me)

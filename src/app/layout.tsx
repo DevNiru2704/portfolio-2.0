@@ -13,7 +13,7 @@ const inter = Inter({
 export const metadata: Metadata = {
   metadataBase: new URL(
     process.env.NODE_ENV === "production"
-      ? "https://nirmalya.dev"
+      ? "https://nirmalyamandal.me"
       : "http://localhost:3000"
   ),
   // Default metadata that can be overridden by pages
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
     "frontend developer",
     "backend developer",
   ],
-  authors: [{ name: "Nirmalya Mandal", url: "https://nirmalya.dev" }],
+  authors: [{ name: "Nirmalya Mandal", url: "https://nirmalyamandal.me" }],
   creator: "Nirmalya Mandal",
   publisher: "Nirmalya Mandal",
   manifest: "/site.webmanifest",

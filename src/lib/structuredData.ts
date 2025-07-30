@@ -7,8 +7,8 @@ export const personSchema = {
   jobTitle: "Full-Stack Developer",
   description:
     "Full-stack developer and researcher passionate about cutting-edge technology and innovation.",
-  url: "https://nirmalya.dev",
-  image: "https://nirmalya.dev/android-chrome-512x512.png",
+  url: "https://nirmalyamandal.me",
+  image: "https://nirmalyamandal.me/android-chrome-512x512.png",
   sameAs: [
     "https://github.com/nirmalya",
     "https://linkedin.com/in/nirmalya",
@@ -54,7 +54,7 @@ export const websiteSchema = {
   name: "Nirmalya Mandal - Portfolio",
   description:
     "Full-stack developer and researcher passionate about cutting-edge technology and innovation.",
-  url: "https://nirmalya.dev",
+  url: "https://nirmalyamandal.me",
   author: {
     "@type": "Person",
     name: "Nirmalya Mandal",
@@ -63,7 +63,7 @@ export const websiteSchema = {
   copyrightYear: new Date().getFullYear(),
   potentialAction: {
     "@type": "SearchAction",
-    target: "https://nirmalya.dev/?q={search_term_string}",
+    target: "https://nirmalyamandal.me/?q={search_term_string}",
     "query-input": "required name=search_term_string",
   },
 };
@@ -74,9 +74,9 @@ export const organizationSchema = {
   name: "Nirmalya Mandal - Full-Stack Development Services",
   description:
     "Professional full-stack development, DevOps, and AI/ML integration services.",
-  url: "https://nirmalya.dev",
-  logo: "https://nirmalya.dev/android-chrome-512x512.png",
-  image: "https://nirmalya.dev/android-chrome-512x512.png",
+  url: "https://nirmalyamandal.me",
+  logo: "https://nirmalyamandal.me/android-chrome-512x512.png",
+  image: "https://nirmalyamandal.me/android-chrome-512x512.png",
   founder: {
     "@type": "Person",
     name: "Nirmalya Mandal",
