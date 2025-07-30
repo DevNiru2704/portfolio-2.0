@@ -19,7 +19,7 @@ const ThemeToggle = () => {
   const handleToggle = () => {
     console.log('Theme toggle clicked:', { current: theme, next: nextTheme.value });
     setTheme(nextTheme.value);
-    portfolioEvents.themeToggle(nextTheme.value === 'system' ? 'system' : nextTheme.value);
+    portfolioEvents.themeToggle(nextTheme.value);
   };
 
   const CurrentIcon = themes.find(t => t.value === theme)?.icon || Moon;
