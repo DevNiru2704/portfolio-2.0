@@ -64,9 +64,7 @@ export const metadata: Metadata = {
   formatDetection: {
     telephone: false,
   },
-  verification: {
-    google: "your-google-verification-code", // Add your actual verification code
-  },
+  // Google verification handled via DNS records at domain level
   openGraph: {
     type: "website",
     siteName: "Nirmalya Mandal Portfolio",
@@ -176,7 +174,9 @@ export default function RootLayout({
       <body className={`${inter.variable} font-sans antialiased`}>
         <PerformanceOptimizer />
         {process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID && (
-          <GoogleAnalytics GA_MEASUREMENT_ID={process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID} />
+          <GoogleAnalytics
+            GA_MEASUREMENT_ID={process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID}
+          />
         )}
         <ThemeProvider>{children}</ThemeProvider>
       </body>
