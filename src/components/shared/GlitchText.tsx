@@ -14,7 +14,7 @@ const GlitchText = ({ children, className = "" }: GlitchTextProps) => {
     const interval = setInterval(() => {
       setIsGlitching(true);
       setTimeout(() => setIsGlitching(false), 200);
-    }, 3000);
+    }, 6000);
 
     return () => clearInterval(interval);
   }, []);
